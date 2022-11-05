@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LatifiCounter
+
+  Created by Георгий Черемных on 05.11.2022.
+  
+*/
+
+"main.icon_description" = "He is still racing...";
+"main.title" = "Did you already drunk for the legend?";
+"main.button" = "I've drunk for Latifi!";
+"widget.title" = "GOATIFI";
+"widget.subtitle" = "Toast made for the legend";

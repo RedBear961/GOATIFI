@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct LatifiCounterApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }

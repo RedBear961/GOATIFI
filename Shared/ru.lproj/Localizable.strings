@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LatifiCounter
+
+  Created by Георгий Черемных on 05.11.2022.
+  
+*/
+
+"main.icon_description" = "Он все еще в гонке...";
+"main.title" = "А ты уже выпил за легенду?";
+"main.button" = "Я выпил за Латифи!";
+"widget.title" = "GOATIFI";
+"widget.subtitle" = "Тостов сделано в честь легенды";
